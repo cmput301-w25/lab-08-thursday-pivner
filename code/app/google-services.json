@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925779184362",
+    "project_id": "lab-08-thursday-pivner",
+    "storage_bucket": "lab-08-thursday-pivner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925779184362:android:01606be13f9bad0b10e593",
+        "android_client_info": {
+          "package_name": "com.example.androidcicd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW302haDff_YFHv4idI6fCQzGujIxh6kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
